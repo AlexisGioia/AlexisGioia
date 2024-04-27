@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexisGioia
 - 👀 I’m interested in ... gain experience and have fun in the process
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... Introduction to AI
 - 💞️ I’m looking to collaborate on ... python proyects
 - 📫 How to reach me ... for now there is no way to communcate with me
 - 😄 Pronouns: ... he
